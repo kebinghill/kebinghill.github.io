@@ -1,7 +1,15 @@
-body {
+/*body {
     color: #0D1B2A;
     background-color: #E0E1DD;
-}
+}*/
 .navbar {
     background-color: #415A77;
+}
+
+body { 
+  background: url(pagebkg.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
